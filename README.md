@@ -48,10 +48,10 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [2048 Web Game](https://github.com/dongo2507/2048-Web-Game) | Browser version of the 2048 puzzle game | ❓HTML, CSS, JavaScript |
-| [GoldMiner](https://github.com/dongo2507/GoldMiner) | Classic Gold Miner game | ❓[Java] |
-| [PaintApp](https://github.com/dongo2507/PaintAPP) | Desktop drawing application | ❓[Java Swing] |
-| [DIP](https://github.com/dongo2507/DIP) | ❓[Digital Image Processing coursework/project] | ❓[...] |
+| [2048 Web Game](https://github.com/dongo2507/2048-Web-Game) | Browser version of the 2048 puzzle game | HTML, CSS, JavaScript |
+| [GoldMiner](https://github.com/dongo2507/GoldMiner) | Classic Gold Miner game | C# |
+| [PaintApp](https://github.com/dongo2507/PaintAPP) | Desktop drawing application | C# |
+| [DIP](https://github.com/dongo2507/DIP) | Seatbelt Detection Tool  | Python + Tkinter |
 
 </details>
 
