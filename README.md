@@ -8,10 +8,10 @@
 ---
 
 ## 👨‍💻 About me
-- 🎓 Studying Information Technology at HCMUTE (Year 3)
-- 🔭 Building backend projects with Java and learning how to design clean, scalable APIs
+- 🎓 Studying **Software Engineering** at HCMUTE 
+- 🔭 Building...
 - 🌱 Currently learning: [Spring Boot / Docker / Unit Testing / ...]
-- 🎯 Looking for a **Backend Developer internship** [from <tháng/năm>]
+- 🎯 Looking for a **Software Engineering internship** ...
 
 ## 🛠 Tech stack
 
