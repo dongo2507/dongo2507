@@ -57,5 +57,5 @@
 </p>
 
 ## 📫 Contact
-- LinkedIn: [link của bạn]
-- Email: [giordianongo2029@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/ngo-tran-ngan-do-556a98381/
+- Email: giordianongo2029@gmail.com
