@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Do Ngo 👋</h1>
 
 <p align="center">
-  3rd-year IT student at <b>HCMUTE</b> · Aspiring <b>Backend Developer</b><br>
+  3rd-year IT student at <b>HCMUTE</b> · Aspiring <b>Software Engineer</b><br>
   Based in Ho Chi Minh City, Vietnam 🇻🇳
 </p>
 
