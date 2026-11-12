@@ -39,9 +39,9 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [Fishing Tackle Shop](https://github.com/dongo2507/Fishing_Tackle_Shop_Website) | E-commerce mini shop: product catalog, shopping cart, order management ❓ | Java, ❓[framework], ❓[DB] |
-| [TRFC Fraud & AML Agent](https://github.com/dongo2507/trfc-fraud-aml-agent) | Agent that monitors transactions to detect fraud and AML (anti-money laundering) risks | ❓[Python/Java, ...] |
-| [Dormitory Management System](https://github.com/dongo2507/Dormitory_Management_System) | Management system for dormitory operations: ❓[rooms, residents, contracts, payments] | ❓[...] |
+| [Fishing Tackle Shop](https://github.com/dongo2507/Fishing_Tackle_Shop_Website) | E-commerce mini shop | Java, Java Servlet + Hibernate, PostgreSql |
+| [TRFC Fraud & AML Agent](https://github.com/dongo2507/trfc-fraud-aml-agent) | Agent that monitors transactions to detect fraud and AML (anti-money laundering) risks | Python |
+| [Dormitory Management System](https://github.com/dongo2507/Dormitory_Management_System) | Management system for dormitory operations| C# |
 
 <details>
 <summary><b>More projects</b></summary>
