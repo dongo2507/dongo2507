@@ -39,8 +39,21 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [Fishing Tackle Shop](https://github.com/dongo2507/Fishing_Tackle_Shop_Website) | E-commerce mini shop: product catalog, cart, orders, [admin management...] | Java, [framework], [DB] |
-| [TRFC Agent](https://github.com/dongo2507/TRFC_Agent) | Basic Agent that control fraud transactions for avoid risks | [...] |
+| [Fishing Tackle Shop](https://github.com/dongo2507/Fishing_Tackle_Shop_Website) | E-commerce mini shop: product catalog, shopping cart, order management ❓ | Java, ❓[framework], ❓[DB] |
+| [TRFC Fraud & AML Agent](https://github.com/dongo2507/trfc-fraud-aml-agent) | Agent that monitors transactions to detect fraud and AML (anti-money laundering) risks | ❓[Python/Java, ...] |
+| [Dormitory Management System](https://github.com/dongo2507/Dormitory_Management_System) | Management system for dormitory operations: ❓[rooms, residents, contracts, payments] | ❓[...] |
+
+<details>
+<summary><b>More projects</b></summary>
+
+| Project | Description | Tech |
+|---|---|---|
+| [2048 Web Game](https://github.com/dongo2507/2048-Web-Game) | Browser version of the 2048 puzzle game | ❓HTML, CSS, JavaScript |
+| [GoldMiner](https://github.com/dongo2507/GoldMiner) | Classic Gold Miner game | ❓[Java] |
+| [PaintApp](https://github.com/dongo2507/PaintAPP) | Desktop drawing application | ❓[Java Swing] |
+| [DIP](https://github.com/dongo2507/DIP) | ❓[Digital Image Processing coursework/project] | ❓[...] |
+
+</details>
 
 ## 📊 GitHub stats
 
