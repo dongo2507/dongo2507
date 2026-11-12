@@ -43,19 +43,11 @@
 | [DIP](https://github.com/dongo2507/DIP) | Seatbelt Detection Tool  | Python + Tkinter |
 | [Fishing Tackle Shop](https://github.com/dongo2507/Fishing_Tackle_Shop_Website) | E-commerce mini shop | Java, Java Servlet + Hibernate, PostgreSql |
 | [TRFC Fraud & AML Agent](https://github.com/dongo2507/trfc-fraud-aml-agent) | Agent that monitors transactions to detect fraud and AML (anti-money laundering) risks | Python |
-
-<details>
-<summary><b>More projects</b></summary>
-
-| Project | Description | Tech |
-|---|---|---|
 | [2048 Web Game](https://github.com/dongo2507/2048-Web-Game) | Browser version of the 2048 puzzle game | HTML, CSS, JavaScript |
 | [GoldMiner](https://github.com/dongo2507/GoldMiner) | Classic Gold Miner game | C# |
 | [PaintApp](https://github.com/dongo2507/PaintAPP) | Desktop drawing application | C# |
 | [Dormitory Management System](https://github.com/dongo2507/Dormitory_Management_System) | Management system for dormitory operations| C# |
 
-
-</details>
 
 ## 📊 GitHub stats
 
