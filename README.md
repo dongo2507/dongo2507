@@ -9,8 +9,8 @@
 
 ## 👨‍💻 About me
 - 🎓 Studying **Software Engineering** at HCMUTE 
-- 🔭 Building...
-- 🌱 Currently learning: [Spring Boot / Docker / Unit Testing / ...]
+- 🔭 Building core IT Project such as Winform, JSP Project, basic Agent...
+- 🌱 Currently learning: Introduction to AI, Information Security and Cloud Computing basically
 - 🎯 Looking for a **Software Engineering internship** ...
 
 ## 🛠 Tech stack
@@ -26,7 +26,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | [Fishing Tackle Shop](https://github.com/dongo2507/Fishing_Tackle_Shop_Website) | E-commerce mini shop: product catalog, cart, orders, [admin management...] | Java, [framework], [DB] |
-| [TRFC Agent](https://github.com/dongo2507/TRFC_Agent) | [Mô tả 1 câu TRFC Agent làm gì] | [...] |
+| [TRFC Agent](https://github.com/dongo2507/TRFC_Agent) | Basic Agent that control fraud transactions for avoid risks | [...] |
 
 ## 📊 GitHub stats
 
@@ -37,4 +37,4 @@
 
 ## 📫 Contact
 - LinkedIn: [link của bạn]
-- Email: [email của bạn]
+- Email: [giordianongo2029@gmail.com]
