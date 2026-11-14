@@ -41,7 +41,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | [DIP](https://github.com/dongo2507/DIP) | Seatbelt Detection Tool  | Python + Tkinter |
-| [Fishing Tackle Shop](https://github.com/dongo2507/Fishing_Tackle_Shop_Website) | E-commerce mini shop | Java, Java Servlet + Hibernate, PostgreSql |
+| [Fishing Tackle Shop](https://github.com/dongo2507/Fishing_Tackle_Shop_Website) | E-commerce mini shop | Java, Java Servlet + Hibernate, PostgreSQL |
 | [TRFC Fraud & AML Agent](https://github.com/dongo2507/trfc-fraud-aml-agent) | Agent that monitors transactions to detect fraud and AML (anti-money laundering) risks | Python |
 | [Dormitory Management System](https://github.com/dongo2507/Dormitory_Management_System) | Management system for dormitory operations| C# |
 | [2048 Web Game](https://github.com/dongo2507/2048-Web-Game) | Browser version of the 2048 puzzle game | HTML, CSS, JavaScript |
