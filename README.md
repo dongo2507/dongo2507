@@ -24,7 +24,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Backend & Frameworks**  
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-#007EC6?logo=flask&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
 
