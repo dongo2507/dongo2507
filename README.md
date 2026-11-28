@@ -41,6 +41,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| [VisualizerAlgorithms](https://github.com/dongo2507/VisualizerAlgorithms) | Visualizer Algorithms Tool  | Python + Tkinter |
 | [DIP](https://github.com/dongo2507/DIP) | Seatbelt Detection Tool  | Python + Tkinter |
 | [Fishing Tackle Shop](https://github.com/dongo2507/Fishing_Tackle_Shop_Website) | E-commerce mini shop | Java, Java Servlet + Hibernate, PostgreSQL |
 | [TRFC Fraud & AML Agent](https://github.com/dongo2507/trfc-fraud-aml-agent) | Agent that monitors transactions to detect fraud and AML (anti-money laundering) risks | Python |
